@@ -9,7 +9,7 @@ self-contained page; the whole back end is Laravel.
 
 ## Requirements
 
-- PHP 8.2+ with `mbstring`, `gd` (PDF export), and `zip` (Excel export)
+- PHP 8.3+ with `mbstring`, `gd` (PDF export), and `zip` (Excel export)
 - Composer
 - A database — SQLite works out of the box; MySQL and PostgreSQL are supported
 
